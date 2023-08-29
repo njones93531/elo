@@ -3,4 +3,3 @@ elo.py finds the limiting distribution of Markov chains with state space 1000-28
 
 elo.png shows the limiting distributions all align at 2800, meaning that playing infinite games, Player P's elo score converges to 2800 even though their actual skill does not improve. 
 
-cool extra text
